@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simple HTML based website with different pages for various recipes for food based products. The aim of such a project is to gain an understanding of how to link to other pages using relative links as well as the fundamentals of creating pages
